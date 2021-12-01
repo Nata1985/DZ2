@@ -82,7 +82,7 @@
       </plugins>
     </pluginManagement>
   </build>
-
+<!-- report plugin-->
   <reporting>
     <plugins>
       <plugin>
